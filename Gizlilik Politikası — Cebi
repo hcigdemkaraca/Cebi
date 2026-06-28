@@ -29,3 +29,27 @@ Uygulamayı silmen cihazındaki yerel verileri kaldırır; iCloud kopyaları iç
 
 9. İletişim Sorularınız için: [hcigdemkaraca@gmail.com]
 
+🇬🇧 Privacy Policy — Cebi
+Last updated: [28 June 2026]
+
+Cebi ("the App", "we") respects your privacy. This policy explains how your data is handled when you use Cebi.
+
+1. Data We Collect Cebi does not require you to create an account or provide personal identity information. All financial records you enter (income, expenses, categories, notes, budget, currency, and preferences such as your name) are stored only on your device.
+
+2. iCloud Sync Your data may sync across your devices through your own iCloud account using Apple's CloudKit. We cannot access this data; it is subject to Apple's privacy terms. Disabling iCloud stops syncing.
+
+3. No Servers of Ours Cebi has no servers of its own. We do not send, store, or sell your financial data.
+
+4. Third-Party Services
+
+Exchange Rates: For live rates, an anonymous network request is made to an external rate service (exchangerate-api.com). This request contains no personal data — only currency codes.
+Apple Notifications & Face ID/Touch ID: Reminders are scheduled locally on your device. Biometric authentication is handled by Apple; your biometric data never leaves your device and is not shared with us.
+5. No Ads or Tracking Cebi shows no ads, uses no third-party analytics/tracking, and does not track you across the internet.
+
+6. Data Deletion You can permanently delete your data anytime via "Reset All Data" in the App. Deleting the App removes local data on your device; use your iCloud settings for any iCloud copies.
+
+7. Children's Privacy Cebi does not knowingly collect data from children.
+
+8. Changes We may update this policy from time to time. The current version is always posted on this page.
+
+9. Contact Questions: [hcigdemkaraca@gmail.com]
