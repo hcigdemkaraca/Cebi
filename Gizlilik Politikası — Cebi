@@ -1,0 +1,31 @@
+🇹🇷 Gizlilik Politikası — Cebi
+Son güncelleme: [tarih]
+
+Cebi ("Uygulama", "biz") gizliliğine değer verir. 
+Bu politika, Cebi'yi kullanırken verilerinin nasıl işlendiğini açıklar.
+
+1. Topladığımız Veriler Cebi bir hesap oluşturmanı veya kişisel kimlik bilgisi vermeni gerektirmez. 
+Girdiğin tüm finansal kayıtlar (gelir, gider, kategoriler, notlar, bütçe, para birimi, isim gibi tercihstler) yalnızca cihazında saklanır.
+
+2. iCloud Senkronizasyonu Verilerin, yalnızca senin kendi iCloud hesabın üzerinden Apple'ın CloudKit altyapısıyla cihazların arasında senkronize edilebilir. 
+;Bu verilere biz erişemeyiz; veriler Apple'ın gizlilik koşullarına tabidir. iCloud'u kapatırsan senkronizasyon durur.
+
+3. Sunucularımız Yok Cebi'nin kendi sunucusu yoktur. Finansal verilerini hiçbir sunucuya göndermez, saklamaz veya satmayız.
+
+4. Üçüncü Taraf Servisler
+
+Döviz Kurları: Canlı kur bilgisi için harici bir kur servisine (exchangerate-api.com) anonim bir ağ isteği yapılır. 
+Bu istek kişisel verini içermez; yalnızca para birimi kodlarını gönderir.
+Apple Bildirimleri ve Face ID/Touch ID: Hatırlatmalar cihazında yerel olarak planlanır. 
+Biyometrik doğrulama Apple tarafından işlenir; biyometrik verilerin asla cihazından çıkmaz ve bize iletilmez.
+5. Reklam ve İzleme Yok Cebi reklam göstermez, üçüncü taraf analiz/izleme araçları kullanmaz ve seni internette takip etmez.
+
+6. Veri Silme Verilerini istediğin an Uygulama içindeki "Tüm Verileri Sıfırla" seçeneğiyle kalıcı olarak silebilirsin. 
+Uygulamayı silmen cihazındaki yerel verileri kaldırır; iCloud kopyaları için iCloud ayarlarını kullanabilirsin.
+
+7. Çocukların Gizliliği Cebi çocuklardan bilerek veri toplamaz.
+
+8. Değişiklikler Bu politikayı zaman zaman güncelleyebiliriz. Güncel sürüm her zaman bu sayfada yayımlanır.
+
+9. İletişim Sorularınız için: [hcigdemkaraca@gmail.com]
+
